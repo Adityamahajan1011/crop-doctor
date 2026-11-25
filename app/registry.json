@@ -14,8 +14,8 @@
     {
       "id": "plantvillage_v1_executorch",
       "backend": "executorch_pte",
-      "path": "mobilenetv3_field_v1_fp32.pte",
-      "classes_from": "mobilenetv3_field_v1.pth",
+      "path": "models/mobilenetv3_field_v1_fp32.pte",
+      "classes_from": "models/mobilenetv3_field_v1.pth",
       "enabled_crops": ["Potato", "Tomato", "Pepper,_bell", "Corn_(maize)",
                         "Grape", "Apple", "Cherry_(including_sour)", "Peach", "Strawberry"],
       "conf_threshold": 0.60,

@@ -6,7 +6,8 @@ from torchvision import transforms
 from PIL import Image, ImageOps
 import streamlit as st
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.dirname(os.path.abspath(__file__))     # .../app
+ROOT = os.path.dirname(HERE)                           # project root
 REG = json.load(open(os.path.join(HERE, "registry.json"), encoding="utf-8"))
 KB = json.load(open(os.path.join(HERE, "kb.json"), encoding="utf-8"))
 CROPS = REG["crops"]
@@ -16,14 +17,13 @@ for m in REG["models"]:
     for c in m["enabled_crops"]:
         CROP_TO_MODEL.setdefault(c, m["id"])
 BLUR_MIN, DARK_MIN = 25.0, 45.0
-
 CONFUSABLE = [
     {"Potato___Early_blight", "Potato___Late_blight"},
     {"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot", "Corn_(maize)___Northern_Leaf_Blight"},
     {"Tomato___Early_blight", "Tomato___Late_blight"},
     {"Tomato___Early_blight", "Tomato___Septoria_leaf_spot", "Tomato___Target_Spot", "Tomato___Bacterial_spot"},
 ]
-MARGIN = 0.25     # if the top two are within 25 points and confusable, don't pick one
+MARGIN = 0.25
 
 def confusable_with(top, min_pair=0.6):
     """Top two answers are a known look-alike pair, close in score, and together confident."""
@@ -37,10 +37,9 @@ def make_tf(size=224, mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)):
     return transforms.Compose([transforms.Resize((size, size)), transforms.ToTensor(),
                                transforms.Normalize(list(mean), list(std))])
 
-# ---------------- vision backends ----------------
 class TorchMNV3:
     def __init__(self, cfg):
-        ck = torch.load(os.path.join(HERE, cfg["path"]), map_location="cpu", weights_only=True)
+        ck = torch.load(os.path.join(ROOT, cfg["path"]), map_location="cpu", weights_only=True)
         self.class_names = ck["class_names"]
         m = models.mobilenet_v3_large(weights=None)
         m.classifier[3] = nn.Linear(m.classifier[3].in_features, ck["num_classes"])
@@ -53,9 +52,9 @@ class TorchMNV3:
 class ExecuTorchCNN:
     def __init__(self, cfg):
         from executorch.runtime import Runtime
-        ck = torch.load(os.path.join(HERE, cfg["classes_from"]), map_location="cpu", weights_only=True)
+        ck = torch.load(os.path.join(ROOT, cfg["classes_from"]), map_location="cpu", weights_only=True)
         self.class_names = ck["class_names"]
-        self.method = Runtime.get().load_program(os.path.join(HERE, cfg["path"])).load_method("forward")
+        self.method = Runtime.get().load_program(os.path.join(ROOT, cfg["path"])).load_method("forward")
         self.tf = make_tf()
     def probs(self, img):
         out = self.method.execute([self.tf(img).unsqueeze(0)])[0]
@@ -83,14 +82,15 @@ def predict(img, crop):
     return {"model": mid, "backend": MODELS[mid]["backend"], "top": top, "raw": raw,
             "crop_mass": mass, "secs": secs}
 
-# ---------------- Llama (ExecuTorch), loaded only when the button is pressed ----------------
 @st.cache_resource
 def load_llm():
     from optimum.executorch import ExecuTorchModelForCausalLM
     from transformers import AutoTokenizer
-    tok = AutoTokenizer.from_pretrained(os.path.join(HERE, "llama_pte", "tokenizer"))
-    llm = ExecuTorchModelForCausalLM.from_pretrained(os.path.join(HERE, "llama_pte"))
+    tok = AutoTokenizer.from_pretrained(os.path.join(ROOT, "llama_pte", "tokenizer"))
+    llm = ExecuTorchModelForCausalLM.from_pretrained(os.path.join(ROOT, "llama_pte"))
     return llm, tok
+
+
 
 BLOCK = ["spray","fungicide","pesticide","chemical","insecticide","dose","dosage","apply","mancozeb",
          "copper","litre","liter","water","irrigat","fertili","nutrient"]

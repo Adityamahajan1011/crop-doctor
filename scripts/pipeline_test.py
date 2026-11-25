@@ -1,4 +1,4 @@
-import json, re, sys, time
+import json, re, sys, time, os
 import torch
 from PIL import Image, ImageOps
 from torchvision import transforms
@@ -6,12 +6,14 @@ from executorch.runtime import Runtime
 from optimum.executorch import ExecuTorchModelForCausalLM
 from transformers import AutoTokenizer
 
-IMG, CROP = sys.argv[1], sys.argv[2]
-names = torch.load("mobilenetv3_field_v1.pth", map_location="cpu", weights_only=True)["class_names"]
-KB = json.load(open("kb.json", encoding="utf-8"))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
 
-# ---- CNN through ExecuTorch ----
-cnn = Runtime.get().load_program("mobilenetv3_field_v1_fp32.pte").load_method("forward")
+IMG, CROP = sys.argv[1], sys.argv[2]
+names = torch.load("models/mobilenetv3_field_v1.pth", map_location="cpu", weights_only=True)["class_names"]
+KB = json.load(open("app/kb.json", encoding="utf-8"))
+
+cnn = Runtime.get().load_program("models/mobilenetv3_field_v1_fp32.pte").load_method("forward")
 tf = transforms.Compose([transforms.Resize((224, 224)), transforms.ToTensor(),
      transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])])
 img = ImageOps.exif_transpose(Image.open(IMG)).convert("RGB")
@@ -34,7 +36,6 @@ print("\n--- Verified knowledge base ---")
 print("Symptoms:", e["symptoms"]); print("Prevention:", "; ".join(e["prevention"]))
 print("Management:", e["management"]); print("Source:", e["source"])
 
-# ---- Llama through ExecuTorch (rewrite symptoms) ----
 BLOCK = ["spray","fungicide","pesticide","chemical","insecticide","dose","dosage","apply","mancozeb",
          "copper","litre","liter","water","irrigat","fertili","nutrient"]
 COLORS = ["yellow","black","brown","white","gray","grey","red","reddish","orange","green","tan","purple","pink"]
