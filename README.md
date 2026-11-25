@@ -28,7 +28,7 @@ See `docs/` for the full report, benchmark output and screenshots.
 | `docs/` | Report, benchmark output, screenshots |
 
 **Not in the repository:** the Llama model folder `llama_pte/` (828 MB, too large for GitHub).
-Download it from: **[PASTE GOOGLE DRIVE LINK TO llama_pte FOLDER]**
+Download it from: **https://drive.google.com/drive/folders/1aqNYn61axUo-xbuPneHEVLSAfG91ePgx?usp=drive_link**
 Place it in the project root so that it contains `llama_pte/model.pte` and `llama_pte/tokenizer/`.
 The app still works without it; only the "Explain in simple words" button needs it.
 
