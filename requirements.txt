@@ -1,0 +1,7 @@
+streamlit==1.67.0
+numpy
+pillow
+psutil
+executorch
+optimum-executorch==1.1.0
+transformers==5.0.0rc1

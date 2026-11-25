@@ -1,0 +1,25 @@
+{
+  "crops": {
+    "Potato":       {"en": "Potato",      "hi": "आलू",         "pa": "ਆਲੂ",          "tier": "punjab"},
+    "Tomato":       {"en": "Tomato",      "hi": "टमाटर",       "pa": "ਟਮਾਟਰ",        "tier": "punjab"},
+    "Pepper,_bell": {"en": "Bell pepper", "hi": "शिमला मिर्च", "pa": "ਸ਼ਿਮਲਾ ਮਿਰਚ",  "tier": "punjab"},
+    "Corn_(maize)": {"en": "Maize",       "hi": "मक्का",       "pa": "ਮੱਕੀ",         "tier": "punjab"},
+    "Grape":        {"en": "Grape",       "hi": "अंगूर",       "pa": "ਅੰਗੂਰ",        "tier": "reference"},
+    "Apple":        {"en": "Apple",       "hi": "सेब",         "pa": "ਸੇਬ",          "tier": "reference"},
+    "Cherry_(including_sour)": {"en": "Cherry", "hi": "चेरी", "pa": "ਚੈਰੀ",         "tier": "reference"},
+    "Peach":        {"en": "Peach",       "hi": "आड़ू",        "pa": "ਆੜੂ",          "tier": "reference"},
+    "Strawberry":   {"en": "Strawberry",  "hi": "स्ट्रॉबेरी",  "pa": "ਸਟ੍ਰਾਬੇਰੀ",    "tier": "reference"}
+  },
+  "models": [
+    {
+      "id": "plantvillage_v1_executorch",
+      "backend": "executorch_pte",
+      "path": "mobilenetv3_field_v1_fp32.pte",
+      "classes_from": "mobilenetv3_field_v1.pth",
+      "enabled_crops": ["Potato", "Tomato", "Pepper,_bell", "Corn_(maize)",
+                        "Grape", "Apple", "Cherry_(including_sour)", "Peach", "Strawberry"],
+      "conf_threshold": 0.60,
+      "crop_mass_min": 0.20
+    }
+  ]
+}

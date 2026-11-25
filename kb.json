@@ -1,0 +1,837 @@
+{
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early blight",
+    "cause": "Fungus (Alternaria solani)",
+    "symptoms": "Brown spots on leaves develop dark concentric rings like a target. Older spots can merge and leaves dry.",
+    "favourable_conditions": "Warm conditions; stress and light soils can favour damage.",
+    "prevention": [
+      "Plant healthy seed tubers",
+      "Maintain balanced nutrition and irrigation",
+      "Inspect older leaves for target-shaped spots"
+    ],
+    "management": "PAU recommends spraying Indofil M-45 (mancozeb 75% WP) or copper oxychloride following the potato late-blight schedule. The cited late-blight schedule specifies 500–700 g per acre for mancozeb products or 750–1000 g per acre for copper oxychloride 50 WP in 250–350 L water; confirm product label and crop registration before use.",
+    "local_names": {},
+    "source": "Punjab Agricultural University (PAU), Package of Practices for Cultivation of Vegetables (2025) (potato disease table, p. 127) | https://www.pau.edu/content/ccil/pf/pp_veg.pdf | 2025",
+    "hi": {
+      "name": "आलू का अगेता झुलसा (अर्ली ब्लाइट)",
+      "symptoms": "पत्तियों पर भूरे धब्बे बनते हैं जिनमें निशाने (टारगेट) की तरह गहरे संकेंद्रित छल्ले (रिंग्स) बन जाते हैं। पुराने धब्बे आपस में मिल सकते हैं और पत्तियाँ सूख जाती हैं।",
+      "prevention": [
+        "स्वस्थ बीज कंद लगाएँ",
+        "संतुलित खाद और सिंचाई रखें",
+        "पुरानी पत्तियों पर निशाने जैसे धब्बों की जाँच करें"
+      ]
+    },
+    "pa": {
+      "name": "ਆਲੂ ਦਾ ਅਗੇਤਾ ਝੁਲਸ ਰੋਗ (ਅਰਲੀ ਬਲਾਈਟ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਭੂਰੇ ਧੱਬੇ ਬਣ ਜਾਂਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਨਿਸ਼ਾਨੇ (ਟਾਰਗੇਟ) ਵਾਂਗ ਗੂੜ੍ਹੇ ਗੋਲ ਚੱਕਰ (ਰਿੰਗਜ਼) ਬਣ ਜਾਂਦੇ ਹਨ। ਪੁਰਾਣੇ ਧੱਬੇ ਆਪਸ ਵਿੱਚ ਮਿਲ ਸਕਦੇ ਹਨ ਅਤੇ ਪੱਤੇ ਸੁੱਕ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਸਿਹਤਮੰਦ ਬੀਜ ਕੰਦ ਲਗਾਓ",
+        "ਸੰਤੁਲਿਤ ਖਾਦਾਂ ਅਤੇ ਸਿੰਚਾਈ ਰੱਖੋ",
+        "ਪੁਰਾਣੇ ਪੱਤਿਆਂ 'ਤੇ ਨਿਸ਼ਾਨੇ ਵਰਗੇ ਧੱਬਿਆਂ ਦੀ ਜਾਂਚ ਕਰੋ"
+      ]
+    }
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late blight",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Water-soaked spots on leaf edges rapidly turn brown-black; white growth may appear beneath leaves in damp mornings. Stems darken and tubers may rot.",
+    "favourable_conditions": "Cool 10–20 °C, prolonged fog/rain and relative humidity over 90%.",
+    "prevention": [
+      "Use healthy, certified seed tubers",
+      "Destroy infected/rejected tubers instead of leaving them in the open",
+      "Use high ridges and inspect fields frequently"
+    ],
+    "management": "PAU 2025 preventive potato schedule: 500–700 g per acre Antracol (propineb 70% WP), Indofil M-45/Mass M-45/Markzeb (mancozeb 75% WP), or Kavach (chlorothalonil 75% WP), OR 750–1000 g per acre copper oxychloride 50 WP, in 250–350 L water, starting before disease appearance; repeat at 7-day intervals as the official schedule specifies. For high-risk situations PAU lists alternative systemic mixtures (e.g., 700 g per acre Ridomil Gold 68 WG, Melody Duo 66.75 WP, Sectin 60 WG or Curzate M-8; or 250 mL per acre Revus 250 SC) at 10-day intervals under its specific rotation schedule. Do not mix products arbitrarily; verify label, current local advisory, intervals and preharvest restrictions.",
+    "local_names": {
+      "hi": "आलू का पछेती झुलसा",
+      "pa": "ਆਲੂ ਦਾ ਪਿਛੇਤਾ ਝੁਲਸਾ"
+    },
+    "source": "Punjab Agricultural University (PAU), Package of Practices for Cultivation of Vegetables (2025) (potato disease table, pp. 126–127) | https://www.pau.edu/content/ccil/pf/pp_veg.pdf | 2025; PAU Potato Late Blight FAQ | https://pau.edu/potato/faq.php | year not stated",
+    "hi": {
+      "name": "आलू का पछेती झुलसा (लेट ब्लाइट)",
+      "symptoms": "पत्तियों के किनारों पर पानी से भीगे हुए धब्बे तेजी से भूरे-काले हो जाते हैं; नम सुबह में पत्तियों के नीचे सफेद फफूंद (वृद्धि) दिखाई दे सकती है। तने काले पड़ जाते हैं और कंद (आलू आदि) सड़ सकते हैं।",
+      "prevention": [
+        "स्वस्थ, प्रमाणित बीज कंद इस्तेमाल करें",
+        "संक्रमित/छाँटे हुए कंदों को खुले में न छोड़ें, नष्ट कर दें",
+        "ऊँची मेड़ें बनाएँ और खेत की बार-बार जाँच करें"
+      ]
+    },
+    "pa": {
+      "name": "ਆਲੂ ਦਾ ਪਿਛੇਤਾ ਝੁਲਸਾ (ਲੇਟ ਬਲਾਈਟ)",
+      "symptoms": "ਪੱਤਿਆਂ ਦੇ ਕਿਨਾਰਿਆਂ 'ਤੇ ਪਾਣੀ ਨਾਲ ਭਿੱਜੇ ਹੋਏ ਧੱਬੇ ਤੇਜ਼ੀ ਨਾਲ ਭੂਰੇ-ਕਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ; ਨਮੀ ਵਾਲੀ ਸਵੇਰ ਨੂੰ ਪੱਤਿਆਂ ਦੇ ਹੇਠਾਂ ਚਿੱਟੀ ਉੱਲੀ (ਵਾਧਾ) ਦਿਖਾਈ ਦੇ ਸਕਦੀ ਹੈ। ਤਣੇ ਕਾਲੇ ਪੈ ਜਾਂਦੇ ਹਨ ਅਤੇ ਕੰਦ (ਆਲੂ ਆਦਿ) ਸੜ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਸਿਹਤਮੰਦ, ਪ੍ਰਮਾਣਿਤ ਬੀਜ ਕੰਦ ਵਰਤੋ",
+        "ਸੰਕਰਮਿਤ/ਛਾਂਟੇ ਹੋਏ ਕੰਦਾਂ ਨੂੰ ਖੁੱਲ੍ਹੇ ਵਿੱਚ ਨਾ ਛੱਡੋ, ਨਸ਼ਟ ਕਰ ਦਿਓ",
+        "ਉੱਚੀਆਂ ਵੱਟਾਂ ਬਣਾਓ ਅਤੇ ਖੇਤ ਦੀ ਵਾਰ-ਵਾਰ ਜਾਂਚ ਕਰੋ"
+      ]
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Maize",
+    "disease": "Gray leaf spot",
+    "cause": "Fungus (Cercospora zeae-maydis)",
+    "symptoms": "Small spots enlarge into rectangular gray-brown patches constrained by parallel leaf veins.",
+    "favourable_conditions": "Warm humid weather; long leaf-wetness periods; residues from previous maize crops.",
+    "prevention": [
+      "Plant locally adapted resistant hybrids",
+      "Rotate away from maize where feasible",
+      "Manage infected crop debris"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Gray leaf spot on corn | https://extension.umn.edu/agriculture/crop-production/corn/gray-leaf-spot-on-corn | 2018",
+    "hi": {
+      "name": "ग्रे लीफ स्पॉट (भूरा-स्लेटी पत्ती धब्बा रोग)",
+      "symptoms": "छोटे धब्बे बढ़कर आयताकार भूरे-स्लेटी चकत्तों में बदल जाते हैं, जो पत्ती की समानांतर नसों के बीच सीमित रहते हैं।",
+      "prevention": [
+        "स्थानीय रूप से अनुकूल रोग-रोधी संकर किस्में लगाएँ",
+        "जहाँ संभव हो मक्का के बाद दूसरी फसल लें (फसल चक्र अपनाएँ)",
+        "संक्रमित फसल अवशेषों का प्रबंधन करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਗਰੇ ਲੀਫ ਸਪੌਟ (ਸਲੇਟੀ ਪੱਤਾ ਧੱਬਾ ਰੋਗ)",
+      "symptoms": "ਛੋਟੇ ਧੱਬੇ ਵਧ ਕੇ ਆਇਤਾਕਾਰ ਸਲੇਟੀ-ਭੂਰੇ ਚਟਾਕ ਬਣ ਜਾਂਦੇ ਹਨ, ਜੋ ਪੱਤੇ ਦੀਆਂ ਸਮਾਂਤਰ ਨਾੜੀਆਂ ਦੇ ਵਿਚਕਾਰ ਸੀਮਤ ਰਹਿੰਦੇ ਹਨ।",
+      "prevention": [
+        "ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਢੁਕਵੀਆਂ ਰੋਗ-ਰੋਧਕ ਹਾਈਬ੍ਰਿਡ ਕਿਸਮਾਂ ਲਗਾਓ",
+        "ਜਿੱਥੇ ਸੰਭਵ ਹੋਵੇ ਮੱਕੀ ਤੋਂ ਬਾਅਦ ਹੋਰ ਫ਼ਸਲ ਲਓ (ਫ਼ਸਲੀ ਚੱਕਰ ਅਪਣਾਓ)",
+        "ਸੰਕਰਮਿਤ ਫ਼ਸਲ ਦੀ ਰਹਿੰਦ-ਖੂੰਹਦ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Maize",
+    "disease": "Common rust",
+    "cause": "Fungus (Puccinia sorghi)",
+    "symptoms": "Small elongated rusty-brown raised pustules appear on both leaf surfaces and shed powdery spores.",
+    "favourable_conditions": "Cool to mild temperatures, prolonged dew and high humidity.",
+    "prevention": [
+      "Use resistant maize hybrids",
+      "Scout leaves regularly",
+      "Avoid unnecessary fungicide use when disease is mild"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Common rust on corn | https://extension.umn.edu/agriculture/crop-production/corn/common-rust-on-corn | 2018",
+    "hi": {
+      "name": "कॉमन रस्ट (रतुआ रोग)",
+      "symptoms": "मक्के की पत्तियों के दोनों तरफ़ छोटे, लंबे, जंग जैसे भूरे उभरे दाने दिखते हैं, जिनसे पाउडर झड़ता है।",
+      "prevention": [
+        "रोग-रोधी मक्का की किस्में लगाएँ",
+        "पत्तियों की नियमित जाँच करें",
+        "रोग हल्का हो तो फफूंदनाशक का बेवजह प्रयोग न करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਕਾਮਨ ਰਸਟ (ਕੁੰਗੀ)",
+      "symptoms": "ਮੱਕੀ ਦੇ ਪੱਤਿਆਂ ਦੇ ਦੋਵੇਂ ਪਾਸੇ ਛੋਟੇ, ਲੰਮੇ, ਜੰਗ ਵਰਗੇ ਭੂਰੇ ਉੱਭਰੇ ਦਾਣੇ ਦਿਖਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਵਿੱਚੋਂ ਪਾਊਡਰ ਝੜਦਾ ਹੈ।",
+      "prevention": [
+        "ਰੋਗ-ਰੋਧਕ ਮੱਕੀ ਦੀਆਂ ਕਿਸਮਾਂ ਲਗਾਓ",
+        "ਪੱਤਿਆਂ ਦੀ ਨਿਯਮਿਤ ਜਾਂਚ ਕਰੋ",
+        "ਰੋਗ ਹਲਕਾ ਹੋਵੇ ਤਾਂ ਉੱਲੀਨਾਸ਼ਕ ਦੀ ਬੇਲੋੜੀ ਵਰਤੋਂ ਨਾ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Maize",
+    "disease": "Northern leaf blight",
+    "cause": "Fungus (Exserohilum turcicum)",
+    "symptoms": "Long cigar- or canoe-shaped gray-green lesions become tan and can kill large leaf areas.",
+    "favourable_conditions": "Moderate temperatures with long periods of leaf moisture.",
+    "prevention": [
+      "Grow resistant hybrids",
+      "Rotate crops and manage infested residues",
+      "Scout before and around tasselling"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Northern corn leaf blight | https://extension.umn.edu/agriculture/crop-production/corn/northern-corn-leaf-blight | 2018",
+    "hi": {
+      "name": "नॉर्दर्न लीफ ब्लाइट (उत्तरी पत्ती झुलसा)",
+      "symptoms": "सिगार या छोटी नाव के आकार के लंबे, भूरे-हरे धब्बे (घाव) हल्के भूरे (टैन) रंग के हो जाते हैं और पत्ती के बड़े हिस्से को सुखाकर नष्ट कर सकते हैं।",
+      "prevention": [
+        "रोग-रोधी संकर किस्में उगाएँ",
+        "फसल चक्र अपनाएँ और संक्रमित अवशेषों का प्रबंधन करें",
+        "मंजरी (टैसल) निकलने के समय से पहले और उसके आसपास खेत की जाँच करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਨਾਰਦਰਨ ਲੀਫ ਬਲਾਈਟ (ਉੱਤਰੀ ਪੱਤਾ ਝੁਲਸ ਰੋਗ)",
+      "symptoms": "ਸਿਗਾਰ ਜਾਂ ਕਿਸ਼ਤੀ ਵਰਗੇ ਲੰਬੇ, ਸਲੇਟੀ-ਹਰੇ ਧੱਬੇ (ਜ਼ਖ਼ਮ) ਹਲਕੇ ਭੂਰੇ ਰੰਗ ਦੇ ਹੋ ਜਾਂਦੇ ਹਨ ਅਤੇ ਪੱਤੇ ਦੇ ਵੱਡੇ ਹਿੱਸੇ ਨੂੰ ਸੁਕਾ ਕੇ ਨਸ਼ਟ ਕਰ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਰੋਗ-ਰੋਧਕ ਹਾਈਬ੍ਰਿਡ ਕਿਸਮਾਂ ਉਗਾਓ",
+        "ਫ਼ਸਲੀ ਚੱਕਰ ਅਪਣਾਓ ਅਤੇ ਸੰਕਰਮਿਤ ਰਹਿੰਦ-ਖੂੰਹਦ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ",
+        "ਤੁਰਲੇ (ਟੈਸਲਿੰਗ) ਤੋਂ ਪਹਿਲਾਂ ਅਤੇ ਉਸ ਦੇ ਆਸ-ਪਾਸ ਖੇਤ ਦੀ ਜਾਂਚ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell pepper",
+    "disease": "Bacterial spot",
+    "cause": "Bacteria (Xanthomonas spp., including X. euvesicatoria)",
+    "symptoms": "Small dark brown spots on leaves, often without yellow halos; severe spotting causes leaf drop and raised lesions on fruit.",
+    "favourable_conditions": "Warm, wet, humid weather and splashing water.",
+    "prevention": [
+      "Use certified disease-free seed/transplants",
+      "Avoid overhead irrigation and handling wet plants",
+      "Remove crop debris and rotate crops"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Bacterial spot of tomato and pepper | https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/bacterial-spot-of-tomato-and-pepper | not stated",
+    "hi": {
+      "name": "शिमला मिर्च का जीवाणु धब्बा रोग (बैक्टीरियल स्पॉट)",
+      "symptoms": "पत्तियों पर छोटे गहरे भूरे रंग के धब्बे बन जाते हैं, जिनके चारों ओर अक्सर पीला घेरा नहीं होता है; गंभीर रूप से धब्बे पड़ने पर पत्तियाँ झड़ जाती हैं और फलों पर उभरे हुए दाग (घाव) बन जाते हैं।",
+      "prevention": [
+        "प्रमाणित रोग-मुक्त बीज/पौध इस्तेमाल करें",
+        "ऊपर से सिंचाई न करें और गीले पौधों को न छुएँ",
+        "फसल अवशेष हटाएँ और फसल चक्र अपनाएँ"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਸ਼ਿਮਲਾ ਮਿਰਚ ਦਾ ਬੈਕਟੀਰੀਆ ਧੱਬਾ ਰੋਗ (ਬੈਕਟੀਰੀਅਲ ਸਪੌਟ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਛੋਟੇ ਗੂੜ੍ਹੇ ਭੂਰੇ ਰੰਗ ਦੇ ਧੱਬੇ ਬਣ ਜਾਂਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦੇ ਆਲੇ-ਦੁਆਲੇ ਅਕਸਰ ਪੀਲਾ ਘੇਰਾ ਨਹੀਂ ਹੁੰਦਾ; ਜ਼ਿਆਦਾ ਧੱਬੇ ਪੈਣ ਕਾਰਨ ਪੱਤੇ ਝੜ ਜਾਂਦੇ ਹਨ ਅਤੇ ਫਲਾਂ 'ਤੇ ਉੱਭਰੇ ਹੋਏ ਦਾਗ਼ (ਜ਼ਖ਼ਮ) ਬਣ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਪ੍ਰਮਾਣਿਤ ਰੋਗ-ਮੁਕਤ ਬੀਜ/ਪਨੀਰੀ ਵਰਤੋ",
+        "ਉੱਪਰੋਂ ਸਿੰਚਾਈ ਨਾ ਕਰੋ ਅਤੇ ਗਿੱਲੇ ਬੂਟਿਆਂ ਨੂੰ ਨਾ ਛੂਹੋ",
+        "ਫ਼ਸਲ ਦੀ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾਓ ਅਤੇ ਫ਼ਸਲੀ ਚੱਕਰ ਅਪਣਾਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "Bacterial spot",
+    "cause": "Bacteria (Xanthomonas spp.)",
+    "symptoms": "Small brown-black leaf spots with yellow halos; spots can join and cause defoliation; fruit gets rough, scabby lesions.",
+    "favourable_conditions": "Warm wet conditions, splashing water and infected transplants.",
+    "prevention": [
+      "Use disease-free seed and transplants",
+      "Avoid handling foliage when wet",
+      "Use drip irrigation and remove crop residues"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Bacterial spot of tomato and pepper | https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/bacterial-spot-of-tomato-and-pepper | not stated",
+    "hi": {
+      "name": "टमाटर का जीवाणु धब्बा रोग (बैक्टीरियल स्पॉट)",
+      "symptoms": "पत्तियों पर पीले घेरे वाले छोटे भूरे-काले धब्बे बनते हैं। धब्बे आपस में मिलकर पत्तियों को झाड़ सकते हैं। फलों पर खुरदरे, पपड़ीदार दाग बन जाते हैं।",
+      "prevention": [
+        "रोग-मुक्त बीज और पौध इस्तेमाल करें",
+        "गीले पत्तों को न छुएँ",
+        "ड्रिप सिंचाई अपनाएँ और फसल अवशेष हटाएँ"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਬੈਕਟੀਰੀਆ ਧੱਬਾ ਰੋਗ (ਬੈਕਟੀਰੀਅਲ ਸਪੌਟ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਪੀਲੇ ਘੇਰੇ ਵਾਲੇ ਛੋਟੇ ਭੂਰੇ-ਕਾਲੇ ਧੱਬੇ ਬਣਦੇ ਹਨ। ਧੱਬੇ ਆਪਸ ਵਿੱਚ ਮਿਲ ਕੇ ਪੱਤੇ ਝਾੜ ਸਕਦੇ ਹਨ। ਫਲਾਂ 'ਤੇ ਖੁਰਦਰੇ, ਪੱਪੜੀਦਾਰ ਦਾਗ਼ ਬਣ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਰੋਗ-ਮੁਕਤ ਬੀਜ ਅਤੇ ਪਨੀਰੀ ਵਰਤੋ",
+        "ਗਿੱਲੇ ਪੱਤਿਆਂ ਨੂੰ ਨਾ ਛੂਹੋ",
+        "ਤੁਪਕਾ ਸਿੰਚਾਈ ਅਪਣਾਓ ਅਤੇ ਫ਼ਸਲ ਦੀ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early blight",
+    "cause": "Fungus (Alternaria solani)",
+    "symptoms": "Dark circular spots show target-like rings; surrounding leaves turn yellow; dark sunken spots may appear near fruit stem.",
+    "favourable_conditions": "Warm, humid weather and prolonged leaf wetness.",
+    "prevention": [
+      "Use seed from healthy fruit",
+      "Avoid splash watering",
+      "Remove infected leaves and crop residues"
+    ],
+    "management": "PAU 2025 recommends treating seed with Captan 3 g per kg of seed before sowing and, after transplanting, spraying Indofil M-45 600 g per acre at 7-day intervals. Use only a crop-registered formulation and follow label safety and harvest intervals.",
+    "local_names": {},
+    "source": "Punjab Agricultural University (PAU), Package of Practices for Cultivation of Vegetables (2025) (tomato disease table, p. 44) | https://www.pau.edu/content/ccil/pf/pp_veg.pdf | 2025",
+    "hi": {
+      "name": "टमाटर का अगेता झुलसा (अर्ली ब्लाइट)",
+      "symptoms": "गहरे गोल धब्बों में निशाने जैसे छल्ले दिखते हैं। आसपास की पत्तियाँ पीली पड़ जाती हैं। फल के डंठल के पास गहरे दबे हुए धब्बे बन सकते हैं।",
+      "prevention": [
+        "स्वस्थ फल से लिया हुआ बीज इस्तेमाल करें",
+        "पानी के छींटे पड़ने से बचें",
+        "संक्रमित पत्तियाँ और फसल अवशेष हटा दें"
+      ]
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਅਗੇਤਾ ਝੁਲਸ ਰੋਗ (ਅਰਲੀ ਬਲਾਈਟ)",
+      "symptoms": "ਗੂੜ੍ਹੇ ਗੋਲ ਧੱਬਿਆਂ ਵਿੱਚ ਨਿਸ਼ਾਨੇ ਵਰਗੇ ਛੱਲੇ ਦਿਖਦੇ ਹਨ। ਆਲੇ-ਦੁਆਲੇ ਦੇ ਪੱਤੇ ਪੀਲੇ ਪੈ ਜਾਂਦੇ ਹਨ। ਫਲ ਦੀ ਡੰਡੀ ਕੋਲ ਗੂੜ੍ਹੇ ਦਬੇ ਹੋਏ ਧੱਬੇ ਬਣ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਸਿਹਤਮੰਦ ਫਲ ਤੋਂ ਲਿਆ ਬੀਜ ਵਰਤੋ",
+        "ਪਾਣੀ ਦੇ ਛਿੱਟਿਆਂ ਤੋਂ ਬਚੋ",
+        "ਸੰਕਰਮਿਤ ਪੱਤੇ ਅਤੇ ਫ਼ਸਲ ਦੀ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾ ਦਿਓ"
+      ]
+    }
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late blight",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Irregular water-soaked patches rapidly turn dark on leaves and stems; fruit can develop brown lesions.",
+    "favourable_conditions": "Cool, rainy, foggy weather and prolonged leaf wetness.",
+    "prevention": [
+      "Use resistant hybrids where locally suitable (PAU mentions PTH-2 and TH-1)",
+      "Avoid wetting foliage",
+      "Inspect after rain and promptly separate infected plants"
+    ],
+    "management": "PAU 2025 directs growers to the early-blight spray schedule during February–March immediately after rain: Indofil M-45 at 600 g per acre, repeating at 7-day intervals. Confirm the currently registered product, preharvest interval and local advisory.",
+    "local_names": {},
+    "source": "Punjab Agricultural University (PAU), Package of Practices for Cultivation of Vegetables (2025) (tomato disease table, pp. 44–45) | https://www.pau.edu/content/ccil/pf/pp_veg.pdf | 2025",
+    "hi": {
+      "name": "टमाटर का पछेती झुलसा (लेट ब्लाइट)",
+      "symptoms": "पत्तियों और तनों पर अनियमित आकार के पानी से भीगे धब्बे तेजी से गहरे रंग के हो जाते हैं। फलों पर भूरे दाग बन सकते हैं।",
+      "prevention": [
+        "जहाँ उपयुक्त हो रोग-रोधी संकर किस्में लगाएँ (PAU ने PTH-2 और TH-1 का उल्लेख किया है)",
+        "पत्तियों को गीला होने से बचाएँ",
+        "बारिश के बाद खेत की जाँच करें और संक्रमित पौधों को तुरंत अलग कर दें"
+      ]
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਪਿਛੇਤਾ ਝੁਲਸਾ (ਲੇਟ ਬਲਾਈਟ)",
+      "symptoms": "ਪੱਤਿਆਂ ਅਤੇ ਤਣਿਆਂ 'ਤੇ ਬੇਢੰਗੇ ਆਕਾਰ ਦੇ ਪਾਣੀ ਨਾਲ ਭਿੱਜੇ ਧੱਬੇ ਤੇਜ਼ੀ ਨਾਲ ਗੂੜ੍ਹੇ ਹੋ ਜਾਂਦੇ ਹਨ। ਫਲਾਂ 'ਤੇ ਭੂਰੇ ਦਾਗ਼ ਬਣ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਜਿੱਥੇ ਢੁਕਵਾਂ ਹੋਵੇ ਰੋਗ-ਰੋਧਕ ਹਾਈਬ੍ਰਿਡ ਕਿਸਮਾਂ ਲਗਾਓ (PAU ਨੇ PTH-2 ਅਤੇ TH-1 ਦਾ ਜ਼ਿਕਰ ਕੀਤਾ ਹੈ)",
+        "ਪੱਤਿਆਂ ਨੂੰ ਗਿੱਲਾ ਹੋਣ ਤੋਂ ਬਚਾਓ",
+        "ਮੀਂਹ ਤੋਂ ਬਾਅਦ ਖੇਤ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਸੰਕਰਮਿਤ ਬੂਟਿਆਂ ਨੂੰ ਤੁਰੰਤ ਵੱਖ ਕਰ ਦਿਓ"
+      ]
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "disease": "Leaf mold",
+    "cause": "Fungus (Passalora fulva, formerly Fulvia fulva)",
+    "symptoms": "Pale yellow leaf spots above and olive-green velvety mold below, especially older leaves.",
+    "favourable_conditions": "High humidity above about 85%; poorly ventilated greenhouses.",
+    "prevention": [
+      "Improve greenhouse ventilation",
+      "Space and prune plants for airflow",
+      "Use drip watering and clean greenhouse structures"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Tomato leaf mold | https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/tomato-leaf-mold | not stated",
+    "hi": {
+      "name": "टमाटर का पत्ती फफूंद रोग (लीफ मोल्ड)",
+      "symptoms": "पत्तियों के ऊपरी भाग पर हल्के पीले धब्बे और निचले भाग पर जैतून-हरी मखमली फफूंद दिखती है, खासकर पुरानी पत्तियों पर।",
+      "prevention": [
+        "ग्रीनहाउस में हवा के आने-जाने की व्यवस्था सुधारें",
+        "हवा के लिए पौधों के बीच दूरी रखें और छँटाई करें",
+        "ड्रिप से सिंचाई करें और ग्रीनहाउस की संरचना साफ़ रखें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਪੱਤਾ ਉੱਲੀ ਰੋਗ (ਲੀਫ ਮੋਲਡ)",
+      "symptoms": "ਪੱਤਿਆਂ ਦੇ ਉੱਪਰਲੇ ਪਾਸੇ ਹਲਕੇ ਪੀਲੇ ਧੱਬੇ ਅਤੇ ਹੇਠਲੇ ਪਾਸੇ ਜੈਤੂਨੀ-ਹਰੀ ਮਖਮਲੀ ਉੱਲੀ ਦਿਖਦੀ ਹੈ, ਖ਼ਾਸ ਕਰਕੇ ਪੁਰਾਣੇ ਪੱਤਿਆਂ 'ਤੇ।",
+      "prevention": [
+        "ਗ੍ਰੀਨਹਾਊਸ ਵਿੱਚ ਹਵਾ ਦੇ ਆਉਣ-ਜਾਣ ਦਾ ਪ੍ਰਬੰਧ ਸੁਧਾਰੋ",
+        "ਹਵਾ ਲਈ ਬੂਟਿਆਂ ਵਿਚਕਾਰ ਵਿੱਥ ਰੱਖੋ ਅਤੇ ਛਾਂਗਾਈ ਕਰੋ",
+        "ਤੁਪਕਾ ਸਿੰਚਾਈ ਕਰੋ ਅਤੇ ਗ੍ਰੀਨਹਾਊਸ ਦਾ ਢਾਂਚਾ ਸਾਫ਼ ਰੱਖੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "disease": "Septoria leaf spot",
+    "cause": "Fungus (Septoria lycopersici)",
+    "symptoms": "Many tiny round spots with dark margins and pale centers, sometimes black dots; lower leaves yellow and dry.",
+    "favourable_conditions": "Warm humid weather and splashing rain.",
+    "prevention": [
+      "Avoid overhead irrigation",
+      "Remove diseased residues",
+      "Rotate tomato fields and increase airflow"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Tomato leaf diagnosis | https://apps.extension.umn.edu/garden/diagnose/plant/vegetable/tomato/leavesspots.html | not stated",
+    "hi": {
+      "name": "टमाटर का सेप्टोरिया पत्ती धब्बा रोग",
+      "symptoms": "बहुत से छोटे गोल धब्बे बनते हैं जिनके किनारे गहरे और बीच का भाग हल्का होता है, कभी-कभी काले बिंदु भी दिखते हैं। नीचे की पत्तियाँ पीली पड़कर सूख जाती हैं।",
+      "prevention": [
+        "ऊपर से सिंचाई न करें",
+        "रोगग्रस्त अवशेष हटा दें",
+        "टमाटर के खेत में फसल चक्र अपनाएँ और हवा का संचार बढ़ाएँ"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਸੈਪਟੋਰੀਆ ਪੱਤਾ ਧੱਬਾ ਰੋਗ",
+      "symptoms": "ਬਹੁਤ ਸਾਰੇ ਛੋਟੇ ਗੋਲ ਧੱਬੇ ਬਣਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਦੇ ਕਿਨਾਰੇ ਗੂੜ੍ਹੇ ਅਤੇ ਵਿਚਕਾਰਲਾ ਹਿੱਸਾ ਹਲਕਾ ਹੁੰਦਾ ਹੈ, ਕਈ ਵਾਰ ਕਾਲੇ ਬਿੰਦੂ ਵੀ ਦਿਖਦੇ ਹਨ। ਹੇਠਲੇ ਪੱਤੇ ਪੀਲੇ ਪੈ ਕੇ ਸੁੱਕ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਉੱਪਰੋਂ ਸਿੰਚਾਈ ਨਾ ਕਰੋ",
+        "ਰੋਗੀ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾ ਦਿਓ",
+        "ਟਮਾਟਰ ਦੇ ਖੇਤ ਵਿੱਚ ਫ਼ਸਲੀ ਚੱਕਰ ਅਪਣਾਓ ਅਤੇ ਹਵਾ ਦਾ ਸੰਚਾਰ ਵਧਾਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "disease": "Two-spotted spider mite damage",
+    "cause": "Mite pest (Tetranychus urticae); not a fungal disease",
+    "symptoms": "Fine yellow speckling on leaves, bronzing and fine silk webbing under heavy attack; mites may be seen on undersides.",
+    "favourable_conditions": "Hot dry weather and water-stressed plants.",
+    "prevention": [
+      "Check leaf undersides and use a hand lens",
+      "Maintain proper soil moisture",
+      "Protect natural mite predators"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Twospotted spider mites | https://extension.umn.edu/garden-and-home/yard-and-garden/yard-and-garden-insects/spider-mites | not stated",
+    "hi": {
+      "name": "टमाटर में दो-धब्बेदार मकड़ी कीट (स्पाइडर माइट) का नुकसान",
+      "symptoms": "पत्तियों पर बारीक पीले छींटे पड़ जाते हैं। भारी हमले में पत्तियाँ काँसे जैसी रंगत की हो जाती हैं और बारीक रेशमी जाला दिखता है। पत्तियों के नीचे की ओर कीट दिख सकते हैं।",
+      "prevention": [
+        "पत्तियों के निचले हिस्से को देखें, ज़रूरत हो तो हैंड लेंस इस्तेमाल करें",
+        "मिट्टी में उचित नमी बनाए रखें",
+        "मकड़ी कीट के प्राकृतिक शत्रु कीटों की रक्षा करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਵਿੱਚ ਦੋ-ਧੱਬੇ ਵਾਲੀ ਮੱਕੜੀ ਕੀਟ (ਸਪਾਈਡਰ ਮਾਈਟ) ਦਾ ਨੁਕਸਾਨ",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਬਾਰੀਕ ਪੀਲੇ ਛਿੱਟੇ ਪੈ ਜਾਂਦੇ ਹਨ। ਜ਼ਿਆਦਾ ਹਮਲੇ ਵਿੱਚ ਪੱਤੇ ਕਾਂਸੇ ਵਰਗੇ ਰੰਗ ਦੇ ਹੋ ਜਾਂਦੇ ਹਨ ਅਤੇ ਬਾਰੀਕ ਰੇਸ਼ਮੀ ਜਾਲਾ ਦਿਖਦਾ ਹੈ। ਪੱਤਿਆਂ ਦੇ ਹੇਠਲੇ ਪਾਸੇ ਕੀੜੇ ਦਿਖ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਪੱਤਿਆਂ ਦੇ ਹੇਠਲੇ ਪਾਸੇ ਦੇਖੋ, ਲੋੜ ਹੋਵੇ ਤਾਂ ਹੈਂਡ ਲੈਂਜ਼ ਵਰਤੋ",
+        "ਮਿੱਟੀ ਵਿੱਚ ਢੁਕਵੀਂ ਨਮੀ ਬਣਾਈ ਰੱਖੋ",
+        "ਮੱਕੜੀ ਕੀਟ ਦੇ ਕੁਦਰਤੀ ਦੁਸ਼ਮਣ ਕੀੜਿਆਂ ਦੀ ਰੱਖਿਆ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "disease": "Target spot",
+    "cause": "Fungus (Corynespora cassiicola)",
+    "symptoms": "Small brown spots may expand with pale centers and darker concentric zones, sometimes causing defoliation or fruit lesions.",
+    "favourable_conditions": "Warm humid weather and prolonged leaf wetness.",
+    "prevention": [
+      "Use clean transplants",
+      "Increase airflow and reduce leaf wetness",
+      "Remove infected debris"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Florida IFAS Extension, Target Spot of Tomato in Florida (reviewed 2024) | https://ask.ifas.ufl.edu/publication/PP351 | 2019, reviewed 2024",
+    "hi": {
+      "name": "टमाटर का टारगेट स्पॉट (निशाना धब्बा रोग)",
+      "symptoms": "छोटे भूरे धब्बे बढ़ सकते हैं, जिनके बीच का भाग हल्का और चारों ओर गहरे गोल घेरे होते हैं। कभी-कभी पत्तियाँ झड़ जाती हैं या फलों पर दाग बन जाते हैं।",
+      "prevention": [
+        "साफ़ और स्वस्थ पौध इस्तेमाल करें",
+        "हवा का संचार बढ़ाएँ और पत्तियों को गीला रहने से बचाएँ",
+        "संक्रमित अवशेष हटा दें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਟਾਰਗੇਟ ਸਪੌਟ (ਨਿਸ਼ਾਨਾ ਧੱਬਾ ਰੋਗ)",
+      "symptoms": "ਛੋਟੇ ਭੂਰੇ ਧੱਬੇ ਵਧ ਸਕਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦਾ ਵਿਚਕਾਰਲਾ ਹਿੱਸਾ ਹਲਕਾ ਅਤੇ ਆਲੇ-ਦੁਆਲੇ ਗੂੜ੍ਹੇ ਗੋਲ ਘੇਰੇ ਹੁੰਦੇ ਹਨ। ਕਈ ਵਾਰ ਪੱਤੇ ਝੜ ਜਾਂਦੇ ਹਨ ਜਾਂ ਫਲਾਂ 'ਤੇ ਦਾਗ਼ ਬਣ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਸਾਫ਼ ਅਤੇ ਸਿਹਤਮੰਦ ਪਨੀਰੀ ਵਰਤੋ",
+        "ਹਵਾ ਦਾ ਸੰਚਾਰ ਵਧਾਓ ਅਤੇ ਪੱਤਿਆਂ ਨੂੰ ਗਿੱਲੇ ਰਹਿਣ ਤੋਂ ਬਚਾਓ",
+        "ਸੰਕਰਮਿਤ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾ ਦਿਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "disease": "Tomato yellow leaf curl virus",
+    "cause": "Virus complex (begomoviruses), transmitted by whiteflies",
+    "symptoms": "Young leaves turn yellow and curl; plants become stunted with few flowers or fruits.",
+    "favourable_conditions": "Warm weather with active whiteflies and infected host plants.",
+    "prevention": [
+      "Use leaf-curl-resistant varieties",
+      "Remove infected plants as PAU advises",
+      "Protect nursery from whitefly and control host weeds"
+    ],
+    "management": "PAU 2025 recommends resistant varieties, removal of infected plants, and management of whitefly vectors using locally recommended insecticides. PAU does not specify a disease-specific application dose in this table; Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "Punjab Agricultural University (PAU), Package of Practices for Cultivation of Vegetables (2025) (tomato disease table, p. 45) | https://www.pau.edu/content/ccil/pf/pp_veg.pdf | 2025",
+    "hi": {
+      "name": "टमाटर का पीला पत्ती मरोड़ विषाणु रोग (टोमैटो येलो लीफ कर्ल वायरस)",
+      "symptoms": "नई पत्तियाँ पीली पड़कर मुड़ जाती हैं। पौधे बौने रह जाते हैं और उन पर फूल या फल बहुत कम लगते हैं।",
+      "prevention": [
+        "पत्ती मरोड़ रोग-रोधी किस्में इस्तेमाल करें",
+        "PAU की सलाह के अनुसार संक्रमित पौधे उखाड़कर हटा दें",
+        "नर्सरी को सफ़ेद मक्खी से बचाएँ और खरपतवार (मेज़बान पौधे) नियंत्रित करें"
+      ],
+      "management": "PAU प्रतिरोधी किस्मों, संक्रमित पौधों को हटाने और सफ़ेद मक्खी (रोग फैलाने वाले कीट) के नियंत्रण की सलाह देता है। दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਪੀਲਾ ਪੱਤਾ ਮਰੋੜ ਵਾਇਰਸ ਰੋਗ (ਟੋਮੈਟੋ ਯੈਲੋ ਲੀਫ ਕਰਲ ਵਾਇਰਸ)",
+      "symptoms": "ਨਵੇਂ ਪੱਤੇ ਪੀਲੇ ਪੈ ਕੇ ਮੁੜ ਜਾਂਦੇ ਹਨ। ਪੌਦੇ ਬੌਣੇ ਰਹਿ ਜਾਂਦੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ 'ਤੇ ਫੁੱਲ ਜਾਂ ਫਲ ਬਹੁਤ ਘੱਟ ਲੱਗਦੇ ਹਨ।",
+      "prevention": [
+        "ਪੱਤਾ ਮਰੋੜ ਰੋਗ-ਰੋਧਕ ਕਿਸਮਾਂ ਵਰਤੋ",
+        "PAU ਦੀ ਸਲਾਹ ਅਨੁਸਾਰ ਸੰਕਰਮਿਤ ਬੂਟੇ ਪੁੱਟ ਕੇ ਹਟਾ ਦਿਓ",
+        "ਨਰਸਰੀ ਨੂੰ ਚਿੱਟੀ ਮੱਖੀ ਤੋਂ ਬਚਾਓ ਅਤੇ ਨਦੀਨਾਂ (ਮੇਜ਼ਬਾਨ ਪੌਦੇ) ਨੂੰ ਕਾਬੂ ਕਰੋ"
+      ],
+      "management": "PAU ਰੋਧਕ ਕਿਸਮਾਂ, ਸੰਕਰਮਿਤ ਬੂਟੇ ਹਟਾਉਣ ਅਤੇ ਚਿੱਟੀ ਮੱਖੀ (ਰੋਗ ਫੈਲਾਉਣ ਵਾਲੇ ਕੀੜੇ) ਦੇ ਕਾਬੂ ਦੀ ਸਲਾਹ ਦਿੰਦੀ ਹੈ। ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "disease": "Tomato mosaic virus",
+    "cause": "Virus (Tomato mosaic virus; ToMV)",
+    "symptoms": "Leaves have irregular light- and dark-green mosaic patterns, crinkling and deformation; plants may be stunted.",
+    "favourable_conditions": "Spread by infected seeds, contact and contaminated tools; not dependent on a particular humidity.",
+    "prevention": [
+      "Use virus-free seed",
+      "Sanitize tools and avoid unnecessary plant handling",
+      "Remove confirmed infected plants"
+    ],
+    "management": "There is no curative spray for a virus. PAU advises virus-free seed and reducing plant-to-plant transmission. Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "Punjab Agricultural University (PAU), Package of Practices for Cultivation of Vegetables (2025) (tomato mosaic table, p. 45) | https://www.pau.edu/content/ccil/pf/pp_veg.pdf | 2025; University of Minnesota Extension — Tomato viruses | https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/tomato-viruses | not stated",
+    "hi": {
+      "name": "टमाटर का मोज़ेक विषाणु रोग (टोमैटो मोज़ेक वायरस)",
+      "symptoms": "पत्तियों पर हल्के और गहरे हरे रंग के अनियमित मोज़ेक जैसे पैटर्न बनते हैं, पत्तियाँ सिकुड़ जाती हैं और टेढ़ी-मेढ़ी हो जाती हैं। पौधे बौने रह सकते हैं।",
+      "prevention": [
+        "विषाणु-मुक्त बीज इस्तेमाल करें",
+        "औज़ारों को साफ़/कीटाणु-रहित करें और पौधों को बेवजह न छुएँ",
+        "पुष्टि होने पर संक्रमित पौधे हटा दें"
+      ],
+      "management": "विषाणु रोग के लिए कोई इलाज वाला छिड़काव नहीं है। PAU विषाणु-मुक्त बीज और पौधे से पौधे में रोग फैलने को कम करने की सलाह देता है। दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਟਮਾਟਰ ਦਾ ਮੋਜ਼ੇਕ ਵਾਇਰਸ ਰੋਗ (ਟੋਮੈਟੋ ਮੋਜ਼ੇਕ ਵਾਇਰਸ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਹਲਕੇ ਅਤੇ ਗੂੜ੍ਹੇ ਹਰੇ ਰੰਗ ਦੇ ਬੇਢੰਗੇ ਮੋਜ਼ੇਕ ਵਰਗੇ ਨਮੂਨੇ ਬਣਦੇ ਹਨ, ਪੱਤੇ ਸੁੰਗੜ ਜਾਂਦੇ ਹਨ ਅਤੇ ਟੇਢੇ-ਮੇਢੇ ਹੋ ਜਾਂਦੇ ਹਨ। ਪੌਦੇ ਬੌਣੇ ਰਹਿ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਵਾਇਰਸ-ਮੁਕਤ ਬੀਜ ਵਰਤੋ",
+        "ਸੰਦਾਂ ਨੂੰ ਸਾਫ਼/ਕੀਟਾਣੂ-ਰਹਿਤ ਕਰੋ ਅਤੇ ਬੂਟਿਆਂ ਨੂੰ ਬੇਲੋੜਾ ਨਾ ਛੂਹੋ",
+        "ਪੁਸ਼ਟੀ ਹੋਣ 'ਤੇ ਸੰਕਰਮਿਤ ਬੂਟੇ ਹਟਾ ਦਿਓ"
+      ],
+      "management": "ਵਾਇਰਸ ਰੋਗ ਲਈ ਕੋਈ ਇਲਾਜ ਵਾਲੀ ਸਪਰੇਅ ਨਹੀਂ ਹੈ। PAU ਵਾਇਰਸ-ਮੁਕਤ ਬੀਜ ਅਤੇ ਬੂਟੇ ਤੋਂ ਬੂਟੇ ਵਿੱਚ ਰੋਗ ਫੈਲਣ ਨੂੰ ਘਟਾਉਣ ਦੀ ਸਲਾਹ ਦਿੰਦੀ ਹੈ। ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "disease": "Black rot",
+    "cause": "Fungus (Guignardia bidwellii / Phyllosticta ampelicida)",
+    "symptoms": "Brown circular leaf lesions with dark borders; berries shrivel and become hard black mummies.",
+    "favourable_conditions": "Warm humid rainy periods in spring/early summer.",
+    "prevention": [
+      "Remove mummified berries and infected canes",
+      "Maintain canopy ventilation",
+      "Protect susceptible vines early in the season"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "Penn State Extension — Grape disease: Black rot | https://extension.psu.edu/grape-disease-black-rot | 2026",
+    "hi": {
+      "name": "अंगूर का काला सड़न रोग (ब्लैक रॉट)",
+      "symptoms": "पत्तियों पर गहरे किनारों वाले भूरे गोल धब्बे बनते हैं। अंगूर के दाने सिकुड़कर सख्त काले सूखे दानों (ममी) में बदल जाते हैं।",
+      "prevention": [
+        "सूखे (ममी) दाने और संक्रमित टहनियाँ हटा दें",
+        "बेल के घने फैलाव में हवा का संचार बनाए रखें",
+        "मौसम की शुरुआत में ही संवेदनशील बेलों की सुरक्षा करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਅੰਗੂਰ ਦਾ ਕਾਲਾ ਸੜਨ ਰੋਗ (ਬਲੈਕ ਰੌਟ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਗੂੜ੍ਹੇ ਕਿਨਾਰਿਆਂ ਵਾਲੇ ਭੂਰੇ ਗੋਲ ਧੱਬੇ ਬਣਦੇ ਹਨ। ਅੰਗੂਰ ਦੇ ਦਾਣੇ ਸੁੰਗੜ ਕੇ ਸਖ਼ਤ ਕਾਲੇ ਸੁੱਕੇ ਦਾਣਿਆਂ (ਮਮੀ) ਵਿੱਚ ਬਦਲ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਸੁੱਕੇ (ਮਮੀ) ਦਾਣੇ ਅਤੇ ਸੰਕਰਮਿਤ ਟਹਿਣੀਆਂ ਹਟਾ ਦਿਓ",
+        "ਵੇਲ ਦੇ ਸੰਘਣੇ ਫੈਲਾਅ ਵਿੱਚ ਹਵਾ ਦਾ ਸੰਚਾਰ ਬਣਾਈ ਰੱਖੋ",
+        "ਮੌਸਮ ਦੀ ਸ਼ੁਰੂਆਤ ਵਿੱਚ ਹੀ ਸੰਵੇਦਨਸ਼ੀਲ ਵੇਲਾਂ ਦੀ ਸੁਰੱਖਿਆ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "disease": "Esca (black measles)",
+    "cause": "Complex of wood-decay fungi, often including Phaeomoniella chlamydospora and Phaeoacremonium spp.",
+    "symptoms": "Tiger-striped yellow/red and brown bands between veins; berries may develop dark speckles; decline or dieback occurs.",
+    "favourable_conditions": "Long-term trunk infection; summer heat can make symptoms more apparent.",
+    "prevention": [
+      "Use clean planting material",
+      "Avoid large pruning wounds and protect vines from trunk injury",
+      "Remove severely affected wood following local viticulture guidance"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of California Agriculture and Natural Resources, UC IPM — Esca (Black Measles) | https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/ | updated 2014",
+    "hi": {
+      "name": "अंगूर का एस्का रोग (ब्लैक मीज़ल्स)",
+      "symptoms": "नसों के बीच बाघ की धारियों जैसी पीली/लाल और भूरी पट्टियाँ बन जाती हैं। दानों पर गहरे छींटे पड़ सकते हैं। बेल कमजोर पड़ती है या ऊपर से सूखने लगती है।",
+      "prevention": [
+        "साफ़ रोपण सामग्री इस्तेमाल करें",
+        "छँटाई में बड़े घाव न बनाएँ और बेल के तने को चोट से बचाएँ",
+        "स्थानीय अंगूर-खेती सलाह के अनुसार बुरी तरह प्रभावित लकड़ी हटा दें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਅੰਗੂਰ ਦਾ ਐਸਕਾ ਰੋਗ (ਬਲੈਕ ਮੀਜ਼ਲਜ਼)",
+      "symptoms": "ਨਾੜੀਆਂ ਦੇ ਵਿਚਕਾਰ ਬਾਘ ਦੀਆਂ ਧਾਰੀਆਂ ਵਰਗੀਆਂ ਪੀਲੀਆਂ/ਲਾਲ ਅਤੇ ਭੂਰੀਆਂ ਪੱਟੀਆਂ ਬਣ ਜਾਂਦੀਆਂ ਹਨ। ਦਾਣਿਆਂ 'ਤੇ ਗੂੜ੍ਹੇ ਛਿੱਟੇ ਪੈ ਸਕਦੇ ਹਨ। ਵੇਲ ਕਮਜ਼ੋਰ ਹੋ ਜਾਂਦੀ ਹੈ ਜਾਂ ਉੱਪਰੋਂ ਸੁੱਕਣ ਲੱਗਦੀ ਹੈ।",
+      "prevention": [
+        "ਸਾਫ਼ ਬੀਜਣ ਸਮੱਗਰੀ ਵਰਤੋ",
+        "ਛਾਂਗਾਈ ਵਿੱਚ ਵੱਡੇ ਜ਼ਖ਼ਮ ਨਾ ਬਣਾਓ ਅਤੇ ਵੇਲ ਦੇ ਤਣੇ ਨੂੰ ਸੱਟ ਤੋਂ ਬਚਾਓ",
+        "ਸਥਾਨਕ ਅੰਗੂਰ-ਖੇਤੀ ਸਲਾਹ ਅਨੁਸਾਰ ਬੁਰੀ ਤਰ੍ਹਾਂ ਪ੍ਰਭਾਵਿਤ ਲੱਕੜ ਹਟਾ ਦਿਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "disease": "Leaf blight (Isariopsis leaf spot)",
+    "cause": "Fungus (Pseudocercospora vitis; historical name Isariopsis clavispora)",
+    "symptoms": "Irregular brown patches enlarge and join, with leaf yellowing and premature leaf fall.",
+    "favourable_conditions": "Warm, humid conditions and wet leaves.",
+    "prevention": [
+      "Prune canopy for airflow",
+      "Avoid wet foliage and remove infested debris",
+      "Monitor leaf spots through humid weather"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "North Carolina State University Cooperative Extension, North Carolina Winegrape Growers Guide, Chapter 8 | https://content.ces.ncsu.edu/pdf/chapter-8-pest-management/2014-10-16/winegrapes8.pdf | 2014",
+    "hi": {
+      "name": "अंगूर का पत्ती झुलसा रोग (आइसेरियोप्सिस पत्ती धब्बा)",
+      "symptoms": "अनियमित भूरे धब्बे बढ़कर आपस में मिल जाते हैं। पत्तियाँ पीली पड़ती हैं और समय से पहले झड़ जाती हैं।",
+      "prevention": [
+        "हवा के संचार के लिए बेल की छँटाई करें",
+        "पत्तियों को गीला होने से बचाएँ और संक्रमित अवशेष हटा दें",
+        "नमी वाले मौसम में पत्तों के धब्बों पर नज़र रखें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਅੰਗੂਰ ਦਾ ਪੱਤਾ ਝੁਲਸ ਰੋਗ (ਆਈਸੇਰੀਓਪਸਿਸ ਪੱਤਾ ਧੱਬਾ)",
+      "symptoms": "ਬੇਢੰਗੇ ਭੂਰੇ ਧੱਬੇ ਵਧ ਕੇ ਆਪਸ ਵਿੱਚ ਮਿਲ ਜਾਂਦੇ ਹਨ। ਪੱਤੇ ਪੀਲੇ ਪੈਂਦੇ ਹਨ ਅਤੇ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਝੜ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਹਵਾ ਦੇ ਸੰਚਾਰ ਲਈ ਵੇਲ ਦੀ ਛਾਂਗਾਈ ਕਰੋ",
+        "ਪੱਤਿਆਂ ਨੂੰ ਗਿੱਲੇ ਹੋਣ ਤੋਂ ਬਚਾਓ ਅਤੇ ਸੰਕਰਮਿਤ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾ ਦਿਓ",
+        "ਨਮੀ ਵਾਲੇ ਮੌਸਮ ਵਿੱਚ ਪੱਤਿਆਂ ਦੇ ਧੱਬਿਆਂ 'ਤੇ ਨਜ਼ਰ ਰੱਖੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "disease": "Apple scab",
+    "cause": "Fungus (Venturia inaequalis)",
+    "symptoms": "Olive-green velvety spots become brown-black; fruit develops corky scabs and cracks.",
+    "favourable_conditions": "Cool rainy periods when new leaves and fruit are wet.",
+    "prevention": [
+      "Choose resistant apple cultivars",
+      "Remove fallen infected leaves",
+      "Prune to improve airflow"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Apple scab | https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/apple-scab | not stated",
+    "hi": {
+      "name": "सेब का पपड़ी रोग (एप्पल स्कैब)",
+      "symptoms": "जैतून-हरे मखमली धब्बे भूरे-काले हो जाते हैं। फलों पर कॉर्क जैसी पपड़ी बन जाती है और फल फट सकते हैं।",
+      "prevention": [
+        "रोग-रोधी सेब की किस्में चुनें",
+        "गिरी हुई संक्रमित पत्तियाँ हटा दें",
+        "हवा के संचार के लिए छँटाई करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਸੇਬ ਦਾ ਪੱਪੜੀ ਰੋਗ (ਐਪਲ ਸਕੈਬ)",
+      "symptoms": "ਜੈਤੂਨੀ-ਹਰੇ ਮਖਮਲੀ ਧੱਬੇ ਭੂਰੇ-ਕਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ। ਫਲਾਂ 'ਤੇ ਕਾਰਕ ਵਰਗੀ ਪੱਪੜੀ ਬਣ ਜਾਂਦੀ ਹੈ ਅਤੇ ਫਲ ਫੱਟ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਰੋਗ-ਰੋਧਕ ਸੇਬ ਦੀਆਂ ਕਿਸਮਾਂ ਚੁਣੋ",
+        "ਡਿੱਗੇ ਹੋਏ ਸੰਕਰਮਿਤ ਪੱਤੇ ਹਟਾ ਦਿਓ",
+        "ਹਵਾ ਦੇ ਸੰਚਾਰ ਲਈ ਛਾਂਗਾਈ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "disease": "Black rot",
+    "cause": "Fungus (Botryosphaeria obtusa / Diplodia seriata complex)",
+    "symptoms": "Leaves may show frog-eye spots with purple margins; fruit turns brown with concentric rings and becomes firm and mummified.",
+    "favourable_conditions": "Warm wet weather, wounds, stressed trees and dead wood.",
+    "prevention": [
+      "Prune dead or cankered twigs",
+      "Remove mummified fruit",
+      "Reduce tree stress and injury"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Apple disease identification | https://apps.extension.umn.edu/garden/diagnose/plant/fruit/apple/leavesspots.html | not stated",
+    "hi": {
+      "name": "सेब का काला सड़न रोग (ब्लैक रॉट)",
+      "symptoms": "पत्तियों पर बैंगनी किनारों वाले मेंढक की आँख जैसे धब्बे दिख सकते हैं। फल भूरा पड़ जाता है, उस पर गोल छल्ले बनते हैं और वह सख्त होकर सूख जाता है।",
+      "prevention": [
+        "सूखी या नासूर वाली टहनियाँ काट दें",
+        "सूखे सिकुड़े (ममी) फल हटा दें",
+        "पेड़ पर तनाव और चोट कम करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਸੇਬ ਦਾ ਕਾਲਾ ਸੜਨ ਰੋਗ (ਬਲੈਕ ਰੌਟ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਜਾਮਨੀ ਕਿਨਾਰਿਆਂ ਵਾਲੇ ਡੱਡੂ ਦੀ ਅੱਖ ਵਰਗੇ ਧੱਬੇ ਦਿਖ ਸਕਦੇ ਹਨ। ਫਲ ਭੂਰਾ ਪੈ ਜਾਂਦਾ ਹੈ, ਉਸ 'ਤੇ ਗੋਲ ਛੱਲੇ ਬਣਦੇ ਹਨ ਅਤੇ ਉਹ ਸਖ਼ਤ ਹੋ ਕੇ ਸੁੱਕ ਜਾਂਦਾ ਹੈ।",
+      "prevention": [
+        "ਸੁੱਕੀਆਂ ਜਾਂ ਨਾਸੂਰ ਵਾਲੀਆਂ ਟਹਿਣੀਆਂ ਕੱਟ ਦਿਓ",
+        "ਸੁੱਕੇ ਸੁੰਗੜੇ (ਮਮੀ) ਫਲ ਹਟਾ ਦਿਓ",
+        "ਰੁੱਖ 'ਤੇ ਤਣਾਅ ਅਤੇ ਸੱਟ ਘਟਾਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "disease": "Cedar apple rust",
+    "cause": "Fungus (Gymnosporangium juniperi-virginianae)",
+    "symptoms": "Yellow spots become vivid orange-red on apple leaves; small tube-like growths may form below the spots.",
+    "favourable_conditions": "Wet spring conditions and nearby infected juniper/cedar hosts.",
+    "prevention": [
+      "Plant resistant apple varieties",
+      "Identify alternate juniper hosts near the orchard",
+      "Monitor leaf spots in wet springs"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Cedar-apple rust | https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/cedar-apple-rust | not stated",
+    "hi": {
+      "name": "सेब का सीडर एप्पल रस्ट (रतुआ रोग)",
+      "symptoms": "सेब की पत्तियों पर पीले धब्बे चटक नारंगी-लाल हो जाते हैं। धब्बों के नीचे छोटी नली जैसी उभरी संरचनाएँ बन सकती हैं।",
+      "prevention": [
+        "रोग-रोधी सेब किस्में लगाएँ",
+        "बाग के पास वैकल्पिक मेज़बान जुनिपर पेड़ों की पहचान करें",
+        "गीले वसंत में पत्तों के धब्बों पर नज़र रखें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਸੇਬ ਦਾ ਸੀਡਰ ਐਪਲ ਰਸਟ (ਕੁੰਗੀ ਰੋਗ)",
+      "symptoms": "ਸੇਬ ਦੇ ਪੱਤਿਆਂ 'ਤੇ ਪੀਲੇ ਧੱਬੇ ਚਮਕਦਾਰ ਸੰਤਰੀ-ਲਾਲ ਹੋ ਜਾਂਦੇ ਹਨ। ਧੱਬਿਆਂ ਦੇ ਹੇਠਾਂ ਛੋਟੀਆਂ ਨਲੀ ਵਰਗੀਆਂ ਉੱਭਰੀਆਂ ਬਣਤਰਾਂ ਬਣ ਸਕਦੀਆਂ ਹਨ।",
+      "prevention": [
+        "ਰੋਗ-ਰੋਧਕ ਸੇਬ ਕਿਸਮਾਂ ਲਗਾਓ",
+        "ਬਾਗ਼ ਦੇ ਨੇੜੇ ਬਦਲਵੇਂ ਮੇਜ਼ਬਾਨ ਜੂਨੀਪਰ ਰੁੱਖਾਂ ਦੀ ਪਛਾਣ ਕਰੋ",
+        "ਗਿੱਲੀ ਬਸੰਤ ਰੁੱਤ ਵਿੱਚ ਪੱਤਿਆਂ ਦੇ ਧੱਬਿਆਂ 'ਤੇ ਨਜ਼ਰ ਰੱਖੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry",
+    "disease": "Powdery mildew",
+    "cause": "Fungus (Podosphaera clandestina complex)",
+    "symptoms": "White powdery coating develops on leaves; leaves may curl, deform and drop early.",
+    "favourable_conditions": "Warm conditions with humid nights; not necessarily free water on leaves.",
+    "prevention": [
+      "Prune for good air circulation",
+      "Avoid excessive nitrogen feeding",
+      "Remove badly affected shoots and fallen debris"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of California Agriculture and Natural Resources, UC IPM — Cherry Powdery Mildew | https://ipm.ucanr.edu/agriculture/cherry/powdery-mildew/ | updated 2015",
+    "hi": {
+      "name": "चेरी का चूर्णिल आसिता रोग (पाउडरी मिल्ड्यू)",
+      "symptoms": "पत्तियों पर सफेद चूर्ण जैसी परत जम जाती है। पत्तियाँ मुड़ सकती हैं, टेढ़ी हो सकती हैं और जल्दी झड़ सकती हैं।",
+      "prevention": [
+        "अच्छे हवा संचार के लिए छँटाई करें",
+        "नाइट्रोजन खाद का ज़्यादा उपयोग न करें",
+        "बुरी तरह प्रभावित टहनियाँ और गिरे अवशेष हटा दें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਚੈਰੀ ਦਾ ਚਿੱਟਾ ਚੂਰਨੀ ਰੋਗ (ਪਾਊਡਰੀ ਮਿਲਡਿਊ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਚਿੱਟੇ ਪਾਊਡਰ ਵਰਗੀ ਪਰਤ ਜੰਮ ਜਾਂਦੀ ਹੈ। ਪੱਤੇ ਮੁੜ ਸਕਦੇ ਹਨ, ਟੇਢੇ ਹੋ ਸਕਦੇ ਹਨ ਅਤੇ ਜਲਦੀ ਝੜ ਸਕਦੇ ਹਨ।",
+      "prevention": [
+        "ਚੰਗੇ ਹਵਾ ਸੰਚਾਰ ਲਈ ਛਾਂਗਾਈ ਕਰੋ",
+        "ਨਾਈਟ੍ਰੋਜਨ ਖਾਦ ਦੀ ਜ਼ਿਆਦਾ ਵਰਤੋਂ ਨਾ ਕਰੋ",
+        "ਬੁਰੀ ਤਰ੍ਹਾਂ ਪ੍ਰਭਾਵਿਤ ਟਹਿਣੀਆਂ ਅਤੇ ਡਿੱਗੀ ਰਹਿੰਦ-ਖੂੰਹਦ ਹਟਾ ਦਿਓ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "crop": "Peach",
+    "disease": "Bacterial spot",
+    "cause": "Bacterium (Xanthomonas arboricola pv. pruni)",
+    "symptoms": "Tiny water-soaked leaf spots darken; centers may fall out, leaving shot holes; fruit gets dark pitted lesions.",
+    "favourable_conditions": "Warm wind-driven rain and humid weather.",
+    "prevention": [
+      "Choose resistant varieties where available",
+      "Avoid overhead watering and excessive nitrogen",
+      "Use clean nursery material"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "Penn State Extension — 2026 disease update: Bacterial spot of peach (US products/doses not applicable in India) | https://extension.psu.edu/2026-disease-update-bitter-rot-and-summer-disease-season | 2026",
+    "hi": {
+      "name": "आड़ू का जीवाणु धब्बा रोग (बैक्टीरियल स्पॉट)",
+      "symptoms": "पत्तियों पर छोटे पानी से भीगे धब्बे गहरे हो जाते हैं। धब्बों का बीच का भाग गिरकर छेद बना सकता है। फलों पर गहरे गड्ढेदार दाग बन जाते हैं।",
+      "prevention": [
+        "जहाँ उपलब्ध हों रोग-रोधी किस्में चुनें",
+        "ऊपर से सिंचाई और नाइट्रोजन का ज़्यादा उपयोग न करें",
+        "साफ़ नर्सरी पौध इस्तेमाल करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਆੜੂ ਦਾ ਬੈਕਟੀਰੀਆ ਧੱਬਾ ਰੋਗ (ਬੈਕਟੀਰੀਅਲ ਸਪੌਟ)",
+      "symptoms": "ਪੱਤਿਆਂ 'ਤੇ ਛੋਟੇ ਪਾਣੀ ਨਾਲ ਭਿੱਜੇ ਧੱਬੇ ਗੂੜ੍ਹੇ ਹੋ ਜਾਂਦੇ ਹਨ। ਧੱਬਿਆਂ ਦਾ ਵਿਚਕਾਰਲਾ ਹਿੱਸਾ ਝੜ ਕੇ ਛੇਕ ਬਣਾ ਸਕਦਾ ਹੈ। ਫਲਾਂ 'ਤੇ ਗੂੜ੍ਹੇ ਟੋਇਆਂ ਵਾਲੇ ਦਾਗ਼ ਬਣ ਜਾਂਦੇ ਹਨ।",
+      "prevention": [
+        "ਜਿੱਥੇ ਉਪਲਬਧ ਹੋਣ ਰੋਗ-ਰੋਧਕ ਕਿਸਮਾਂ ਚੁਣੋ",
+        "ਉੱਪਰੋਂ ਸਿੰਚਾਈ ਅਤੇ ਨਾਈਟ੍ਰੋਜਨ ਦੀ ਜ਼ਿਆਦਾ ਵਰਤੋਂ ਨਾ ਕਰੋ",
+        "ਸਾਫ਼ ਨਰਸਰੀ ਪੌਦੇ ਵਰਤੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry",
+    "disease": "Leaf scorch",
+    "cause": "Fungus (Diplocarpon earlianum)",
+    "symptoms": "Small solid purple spots merge; foliage becomes reddish brown and looks scorched; no pale spot center.",
+    "favourable_conditions": "Prolonged moisture and splashing water; survives in infected leaf debris.",
+    "prevention": [
+      "Use healthy transplants",
+      "Improve airflow and remove old diseased leaves",
+      "Avoid overhead irrigation"
+    ],
+    "management": "Consult the local agriculture officer for a crop-approved treatment and dose; do not apply a pesticide based on an image prediction alone.",
+    "local_names": {},
+    "source": "University of Minnesota Extension — Growing strawberries | https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/growing-strawberries-in-the-home-garden | not stated",
+    "hi": {
+      "name": "स्ट्रॉबेरी का पत्ती झुलसा रोग (लीफ स्कॉर्च)",
+      "symptoms": "छोटे ठोस बैंगनी धब्बे आपस में मिल जाते हैं। पत्तियाँ लालिमा लिए भूरी होकर झुलसी हुई दिखती हैं। धब्बों के बीच में हल्का भाग नहीं होता।",
+      "prevention": [
+        "स्वस्थ पौध इस्तेमाल करें",
+        "हवा का संचार बढ़ाएँ और पुरानी रोगी पत्तियाँ हटा दें",
+        "ऊपर से सिंचाई न करें"
+      ],
+      "management": "दवा और मात्रा के लिए अपने स्थानीय कृषि अधिकारी से सलाह लें; केवल फ़ोटो के आधार पर कोई कीटनाशक न डालें।"
+    },
+    "pa": {
+      "name": "ਸਟ੍ਰਾਬੇਰੀ ਦਾ ਪੱਤਾ ਝੁਲਸ ਰੋਗ (ਲੀਫ ਸਕੌਰਚ)",
+      "symptoms": "ਛੋਟੇ ਠੋਸ ਜਾਮਨੀ ਧੱਬੇ ਆਪਸ ਵਿੱਚ ਮਿਲ ਜਾਂਦੇ ਹਨ। ਪੱਤੇ ਲਾਲੀ ਵਾਲੇ ਭੂਰੇ ਹੋ ਕੇ ਝੁਲਸੇ ਹੋਏ ਦਿਖਦੇ ਹਨ। ਧੱਬਿਆਂ ਦੇ ਵਿਚਕਾਰ ਹਲਕਾ ਹਿੱਸਾ ਨਹੀਂ ਹੁੰਦਾ।",
+      "prevention": [
+        "ਸਿਹਤਮੰਦ ਪੌਦੇ ਵਰਤੋ",
+        "ਹਵਾ ਦਾ ਸੰਚਾਰ ਵਧਾਓ ਅਤੇ ਪੁਰਾਣੇ ਰੋਗੀ ਪੱਤੇ ਹਟਾ ਦਿਓ",
+        "ਉੱਪਰੋਂ ਸਿੰਚਾਈ ਨਾ ਕਰੋ"
+      ],
+      "management": "ਦਵਾਈ ਅਤੇ ਮਾਤਰਾ ਲਈ ਆਪਣੇ ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਅਫ਼ਸਰ ਦੀ ਸਲਾਹ ਲਓ; ਸਿਰਫ਼ ਫੋਟੋ ਦੇ ਆਧਾਰ 'ਤੇ ਕੋਈ ਕੀਟਨਾਸ਼ਕ ਨਾ ਪਾਓ।"
+    }
+  }
+}

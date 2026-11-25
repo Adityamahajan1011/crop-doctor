@@ -1,0 +1,33 @@
+{
+ "host": "cropdoctor",
+ "machine": "aarch64",
+ "python": "3.13.5",
+ "cpus": 4,
+ "total_ram_mb": 4246,
+ "cnn_load_s": 0.06,
+ "cnn_ms_mean": 10.1,
+ "cnn_ms_p95": 10.1,
+ "cnn_file_mb": 17.0,
+ "rss_after_cnn_mb": 371,
+ "llama_load_s": 0.0,
+ "llama_file_mb": 828,
+ "llama_runs": [
+  {
+   "total_s": 6.4,
+   "new_tokens": 39,
+   "overall_tok_per_s": 6.09
+  },
+  {
+   "total_s": 3.7,
+   "new_tokens": 39,
+   "overall_tok_per_s": 10.56
+  },
+  {
+   "total_s": 3.7,
+   "new_tokens": 39,
+   "overall_tok_per_s": 10.52
+  }
+ ],
+ "rss_after_llama_mb": 2554,
+ "peak_rss_mb": 2542
+}

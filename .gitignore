@@ -1,0 +1,12 @@
+pip/
+venv/
+venv_et/
+home/
+tmp/
+llama_pte/
+disease_images/
+__pycache__/
+*.pyc
+*.zip
+*.ipynb_checkpoints/
+test_images/
